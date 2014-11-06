@@ -1,27 +1,41 @@
-# Choose a License Web Site [![Build Status](https://travis-ci.org/github/choosealicense.com.png?branch=gh-pages)](https://travis-ci.org/github/choosealicense.com)
+# 라이선스 고르기 웹사이트 [![Build Status](https://travis-ci.org/codenamu/choosealicense.kr.svg?branch=gh-pages)](https://travis-ci.org/codenamu/choosealicense.kr)
 
+
+모험 고르기 사이트 같지만, 단지 훨씬 덜 재밌다는 점.
 Like a Choose Your Own Adventure site, but only much less interesting.
 
+# 소개
 # Intro
 
+깃헙에 있는 많은 레포지토리들이 라이선스가 없어요. 깃헙은 라이선스 선택기를 제공하는데,
+정작 사용자가 라이선스에 대해 아무것도 모르면, 어떻게 생각하고 결정할 수 있겠어요?
 A lot of repositories on GitHub.com don't have a license. GitHub provides
 a license chooser, but if you don't know anything about licenses, how are you
 supposed to make an informed decision?
 
+ChooseALicense.kr은 사람들이 라이선스에 대해 충분히 생각하고 결정할 수 있도록 돕기 위해 만들었어요.
 ChooseALicense.com is designed to help people make an informed decision about
 licenses.
 
+# 당장 목표
 # Immediate Goals
 
+* 장인 아님. 우리 목표는 단지 *너*의 목표에 맞는 라이선스를 찾을 수 있도록 돕는 거임.
 * Non-partisan. Our goal is to help you find a license that meets *your* goals.
+* 잘 디자인해서 말하지 않아도 알도록.
 * Well designed, but that goes without saying.
+* 홈페이지는 1%가 아니라 99%의 횽아들이 결정을 내릴 수 있도록 도와야 함.
 * The homepage should have just enough to help 99% of folks make a decision.
+* 1%를 위해서 사이트에는 특정 커뮤니티와 상황에 많이 사용하는 라이선스 목록을 찾을 수 있음.
 * For the 1%, the site will contain a list of licenses common to specific
 communities and situations.
+* 전부 다 하는 건 아님. 약간 이상해보일 수도 있지만 저 바깥에는 열라 많은 라이선스가 있으니까,
+우리는 중요한 라이선스만 뽑아서 되도록 스크롤 짧은 목록만 제공할 거임..
 * Not comprehensive. Seems like an odd goal, but there are a bajillion
 licenses out there. We're going to have to filter that down to a
 small list of those that matter.
 
+# 니 컴터에서 돌리기
 # Run It On Your Machine
 
 ```bash
@@ -32,6 +46,7 @@ script/server
 ```
 Open `http://localhost:4000` in your favorite browser.
 
+# 라이선스 추가하기
 # Adding a license
 
 The text of the license should be wrapped to a 78 character width.
