@@ -1,8 +1,8 @@
 ---
-title: ChooseALicense.com
+title: ChooseALicense.kr
 relative_permalinks: false
 markdown: kramdown
-url: "http://choosealicense.com"
+url: "http://choosealicense.kr"
 
 collections:
   licenses:
