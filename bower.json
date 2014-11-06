@@ -1,9 +1,10 @@
 {
-  "name": "choosealicense.com",
+  "name": "choosealicense.kr",
   "version": "0.0.1",
-  "homepage": "choosealicense.com",
+  "homepage": "choosealicense.kr",
   "authors": [
-    "GitHub Inc."
+    "GitHub Inc.",
+    "Codenamu"
   ],
   "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
   "main": "index.html",
